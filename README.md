@@ -2,7 +2,7 @@
 
 
 ### Overview:
-Implementing a Local Binary Pattern (LBP) Classifier on imagess and Motion Estimation on moving vehicles video
+Implementing a Local Binary Pattern (LBP) Classifier on images and Motion Estimation on moving vehicles video. Both tasks done from scratch using MATLAB. The file titled **"code"** contains the code and instructions to run it
 
 
 ## LBP Classification
