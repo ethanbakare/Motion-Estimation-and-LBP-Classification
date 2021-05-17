@@ -34,3 +34,5 @@ The image below demonstrates the use of the block matching algorithm. The “lef
 
 Utilising the calculated motion vectors obtained via the block matching algorithm. The subsequent frame in the video can be predicted throughout the motion vectors. As illustrated below we can see the actual frame versus predicted frame.
 
+
+<img src="https://github.com/ethanbakare/Motion-Estimation-and-LBP-Classification/blob/main/images/actual_vs_predicted.png" width = "500"/>
