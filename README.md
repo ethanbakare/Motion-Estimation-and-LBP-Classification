@@ -16,3 +16,18 @@ The LBP Global Descriptors are made from a concatenation of texture histogram wi
 The lower the confidence measurement between a respective train and test global descriptor the higher the similarity.
 
 The prior test image of the test histogram, is classified under the train image with which it has the smaller distance (and effectively largest similarity).
+
+
+
+
+
+## Motion Estimation
+
+The image below demonstrates the use of the block matching algorithm. The “left” image being the previous frame and the “right” image the current frame. By using blocking matching the motion vectors of moving objects from previous to current frame is calculated and such the direction of motion superimposed on the current image.
+
+
+
+### Prediction of next video frame 
+
+Utilising the calculated motion vectors obtained via the block matching algorithm. The subsequent frame in the video can be predicted throughout the motion vectors. As illustrated below we can see the actual frame versus predicted frame.
+
