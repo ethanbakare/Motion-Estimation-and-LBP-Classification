@@ -28,7 +28,7 @@ The prior test image of the test histogram, is classified under the train image 
 
 The image below demonstrates the use of the block matching algorithm. The “left” image being the previous frame and the “right” image the current frame. By using blocking matching the motion vectors of moving objects from previous to current frame is calculated and such the direction of motion superimposed on the current image.
 
-
+<img src="https://github.com/ethanbakare/Motion-Estimation-and-LBP-Classification/blob/main/images/motion_vector.png" width = "500"/>
 
 ### Prediction of next video frame 
 
