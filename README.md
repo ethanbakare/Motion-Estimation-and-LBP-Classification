@@ -1,4 +1,4 @@
-# LBP Classification and Motion Estimation
+# Motion Estimation and  LBP Classification
 
 ### LBP Classification
 
