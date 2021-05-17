@@ -1,4 +1,15 @@
-0- Download the entire zip file '18107558' to your local machine, and extract it.
+-README FILE-----------------------------------------------------------------------------------------------------------------------------------------------
+Introduction to Computer Vision - Queen Mary University of London
+
+Course Project on Motion Estimation and Local Binary Pattern %%%%%%%%%%%%%%%%%%%%%%%%%
+
+Author: Ethan Bakare
+
+INSTRUCTIONS:
+
+
+
+0- Download the entire file 'code' to your local machine.
 
 1- The file named 'Main_file.m' is responsible for running Question 1- 3, as all functions are called
    into this file
