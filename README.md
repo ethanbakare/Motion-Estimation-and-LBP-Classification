@@ -20,7 +20,7 @@ The prior test image of the test histogram, is classified under the train image 
 
 
 
-<img src="https://github.com/ethanbakare/Motion-Estimation-and-LBP-Classification/blob/main/images/LBP_classifier.png" width = "500"/>
+<img src="https://github.com/ethanbakare/Motion-Estimation-and-LBP-Classification/blob/main/images/LBP_classifier.png" width = "900"/>
 
 
 
