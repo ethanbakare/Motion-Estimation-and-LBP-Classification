@@ -1,7 +1,8 @@
-# Motion Estimation and  LBP Classification
+# Motion Estimation and Local Binary Pattern(LBP) Classification
 
 
 ### Overview:
+Implementing a Local Binary Pattern (LBP) Classifier on imagess and Motion Estimation on moving vehicles video
 
 
 ## LBP Classification
