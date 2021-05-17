@@ -5,6 +5,8 @@
 Implementing a Local Binary Pattern (LBP) Classifier on images and Motion Estimation on moving vehicles video. Both tasks done from scratch using MATLAB. The file titled **"code"** contains the code and instructions to run it
 
 
+
+
 ## LBP Classification
 
 LBP (Local Binary Pattern) is a visual descriptor which implements a texture operation to label the pixels of an image.
